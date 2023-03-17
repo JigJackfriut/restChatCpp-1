@@ -56,6 +56,7 @@ int main(void) {
     string username = req.matches[1];
     string result;
     vector<string> empty;
+    cout << username << " joins" << endl;
     
     // Check if user with this name exists
     if (messageMap.count(username)) {
