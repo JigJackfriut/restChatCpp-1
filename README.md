@@ -8,7 +8,7 @@ A REST based web chat program using C++
  - ```sudo apt-get install libz-dev```
 
 ## MariaDB
- - This assumes MariaDB is installed. IF not folllow these instructions: https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-22-04
+ - This assumes MariaDB is installed. If not folllow these instructions: https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-22-04
  - Install the MariaDB connector: https://mariadb.com/docs/skysql/connect/programming-languages/cpp/install/
  
 ## Set Javascript IP address to your VM address
